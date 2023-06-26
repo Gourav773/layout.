@@ -1,0 +1,27 @@
+.box{
+
+    height: 70vh;
+display: flex;
+    margin: 5px 0px;
+
+
+
+}
+.aside{
+
+    background-color: aqua;
+    width: 20%;
+}
+.container{
+    background-color: brown;
+    width: 60%;
+}
+.side{
+
+    width: 20%;
+    background-color: blue;
+}
+.footer{
+    background-color: blueviolet;
+    padding: 20px;
+}

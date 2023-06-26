@@ -1,0 +1,38 @@
+.header{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.navbar{
+    background-color: aquamarine;
+    padding: 10px;
+}
+.box3{
+    
+    height: 60vh;
+    margin: 5px 0;
+    
+}
+.section{
+    background-color: brown;
+    height: 200px;
+    width: 50%;
+    
+}
+.artical{
+    background-color: blueviolet;
+    height: 200px;
+    width: 50%;
+    
+}
+.aside{
+background-color: burlywood;
+height: 400px;
+width: 50%;
+margin: -409px 693px;
+
+
+}
+
+.ash{
+    background-color: aquamarine
+}

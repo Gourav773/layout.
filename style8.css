@@ -1,0 +1,36 @@
+.nav{
+    background-color: dimgray;
+    padding: 20px;
+   }
+   .heading{
+   
+       height: 70vh;
+       display: flex;
+       margin: 2px;
+   }
+   .inside{
+       background-color: forestgreen;
+       width: 20%;
+           
+   }
+   
+   
+   .artical{
+       background-color: blueviolet;
+       width: 10%;
+   
+   }
+   .body{
+       background-color:  rgb(255, 174, 0);
+       width: 10%;
+   
+   }
+   .footer{
+       background-color: brown;
+       padding: 20px;
+   }
+   .cantent{
+       background-color: aqua;
+       width: 60%;
+   }
+   

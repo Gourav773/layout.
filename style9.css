@@ -1,0 +1,21 @@
+.header{
+    background-color: cadetblue;
+    padding: 20px;
+}
+.heading{
+    display: flex;
+    height: 70vh;
+
+}
+.man{
+    background-color: chartreuse;
+    width: 80%;
+}
+.right{
+    background-color: darkcyan;
+    width: 20%;
+}
+.footer{
+    background-color: darkred;
+    padding: 20px;
+}

@@ -1,0 +1,36 @@
+.header{
+    background-color:rgb(8, 136, 248);
+    padding: 30px;
+
+
+}
+.head{
+    
+    height: 70vh;
+    display: flex;
+    margin: 5px;
+}
+.main{
+    background-color: blue;
+    width: 30%;
+
+}
+.artical{
+    background-color: blueviolet;
+    width: 60%;
+
+}
+.command{
+    background-color: chartreuse;
+    padding: 20px;
+
+}
+.footer{
+    background-color: deeppink;
+    padding: 20px;
+
+}
+.req{
+    background-color: chocolate;
+    width: 10%;
+}

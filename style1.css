@@ -1,0 +1,34 @@
+.navbar{
+    background-color: rgb(168, 157, 157);
+    padding: 20px;
+
+}
+.box1{
+
+    height: 70vh;
+    display: flex;
+    margin: 5px 0px;
+
+
+
+}
+.aside{
+
+    background-color: rgb(200, 255, 0);
+    width: 10%;
+}
+.sidebar{
+    background-color: rgb(42, 165, 112);
+    width: 80%;
+}
+.content{
+
+    width: 10%;
+    background-color: rgb(255, 140, 0);
+}
+.footer{
+    background-color: rgb(255, 127, 221);
+    padding: 20px;
+}
+
+
